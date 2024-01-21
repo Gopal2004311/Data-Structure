@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stack.h": "c",
+        "queue.h": "c",
+        "conio.h": "c"
+    }
+}

@@ -1,0 +1,5 @@
+101   ganesh  15
+102   rahul   25
+103   rohan   13
+104   krishna 29
+105   ram     23

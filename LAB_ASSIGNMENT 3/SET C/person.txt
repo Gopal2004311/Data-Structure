@@ -1,0 +1,13 @@
+
+ the sorted data is:
+
+6    krishna    12
+5    rakesh    13
+7    gopal    19
+9    siddharth    20
+2    rahul    21
+4    rohan    32
+8    ravindra    55
+10    samir    65
+1    omkar    76
+3    ramesh    87

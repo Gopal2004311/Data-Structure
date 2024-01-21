@@ -1,0 +1,21 @@
+nashik       65346
+nagar        54653
+pune         64766
+mumbai       67466
+aurangabad   67347
+rahata       67367
+shirdi       64776
+rahuri       35556
+sangmaner    67643
+shrirampur   64766
+ The sorted file is:
+aurangabad   67347
+mumbai   67466
+nagar   54653
+nashik   65346
+pune   64766
+rahata   67367
+rahuri   35556
+sangmaner   67643
+shirdi   64776
+shrirampur   64766

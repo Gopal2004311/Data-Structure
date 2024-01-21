@@ -1,0 +1,3 @@
+rakesh   mca  20000
+ram      mcm  30000
+krishna  mba  20000

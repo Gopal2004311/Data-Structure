@@ -1,0 +1,4 @@
+virat  cricket  45
+sachin  cricket 55
+rohit   cricket 43
+dyanchand  hockey  50
